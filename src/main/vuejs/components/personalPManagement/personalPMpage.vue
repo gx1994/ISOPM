@@ -8,7 +8,7 @@
   <div>
     <utable></utable>
   </div>
-    <pages></pages> 
+    
 </div>
 </template>
 <script type="text/javascript">
